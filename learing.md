@@ -8,3 +8,13 @@ convert the string params to integer and check if its a number
 
 ParseBoolPipe
 convert the string Query to boolean and check if its a boolean
+
+TODOS 
+learn about depedency injection
+
+
+express routes = nest controller
+express controller = nest services
+
+#services generate cmd 
+ nest generate s /users/services/users
